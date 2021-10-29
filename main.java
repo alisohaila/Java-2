@@ -10,7 +10,7 @@ public class Main {
 
         if (play.equals("yes") || play.equals("YES") || play.equals("Yes")){
             System.out.println("Okay, let's go!");
-        } else if (play.equals("no")){
+        } else if (play.equals("no") || play.equals("NO) || play.equals("No"){
             System.out.println("Alright, bye! ");
             input.close();
         } else {
