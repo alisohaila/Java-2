@@ -1,5 +1,5 @@
 # Java-2
-My Second Java Project! (Quiz)
+Welcome to my game!
 
 First, it will ask weather you want to play the game or not; if yes, it will print out "Okay, let's go", whereas if no, it will print out "Alright, bye!" and terminate the program. 
 
