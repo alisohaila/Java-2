@@ -99,9 +99,8 @@ public class Main {
             } else {
                 System.out.println("Invalid Input");
                 continue;
-
-                System.out.println("You've got " + score + '/' + num_of_questions);
             }
         }
+        System.out.println("You've got " + score + '/' + num_of_questions);
     }
 }
